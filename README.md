@@ -28,11 +28,10 @@ Once we successfully manage the growth in a few locations, we will upscale and a
 
 iBoola Pitch Deck: https://we.tl/t-fUEexxti5D
 
-Tech Stack 
-- Solidity
-- React Native
-- Celo Block Chain
+Tech Stack:
 
+Backend & tools: Solidity, Typescript, hardhat, Celo SDKs 
+Frontend: JavaScript, React-Native framework,
 
 
 Link to iBoola landing page: 
