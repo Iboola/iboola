@@ -1,7 +1,8 @@
-iBoola is a smart waste bin which enables tokenization of agricultural/market waste. It operates using technologies like Blockchain, Internet of Things(IoT), Artificial Intelligence (AI), Geographical information system (GPS) and Global Positioning System (GPS) + Radio-frequency identification (RFID).  
+iBoola us a waste management system that connects stakeholders in the waste management sector and compensates them for  participation.
+
+iBoola smart waste bin enables tokenization of agricultural/market waste. It operates using technologies like Blockchain, Internet of Things(IoT), Artificial Intelligence (AI), Geographical information system (GPS) and Global Positioning System (GPS) + Radio-frequency identification (RFID).  
 
 The bin connects disposers with collectors who send waste to processing units where it will be processed into organic fertilizer and clean energy.
-
 
 Our objectives are simply;
 - Wealth creation
