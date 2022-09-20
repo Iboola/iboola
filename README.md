@@ -25,10 +25,13 @@ We intend to start with farms and markets where we have huge amounts of waste wh
 Once we successfully manage the growth in a few locations, we will upscale and add possible models that will suit offices and home use.
 
 
+iBoola Pitch Deck: https://we.tl/t-fUEexxti5D
 
+Tech Stack 
+- Solidity
+- React Native
+- Celo Block Chain
 
-
-Link to iBoola Pitch Deck: https://we.tl/t-fUEexxti5D
 
 
 Link to iBoola landing page: 
