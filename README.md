@@ -45,3 +45,51 @@ Link to download iBoola App: https://expo.dev/artifacts/eas/kUeve7FyaFbHsGqbvUMV
 
 
 Link to GitHub Repo: https://github.com/iboola/iboola
+
+-----------
+
+```
+git clone https://github.com/Iboola/iboola.git
+cd iboola
+```
+
+### Install dependencies
+```
+yarn install
+
+```
+
+### Start the App
+```
+yarn start
+```
+
+
+### Test the contract
+
+In the root directory, navigate to hardhat
+
+```
+cd hardhat
+yarn install
+```
+
+#### Compile 
+```
+npx hardhat compile
+
+```
+```
+npx hardhat node
+```
+
+Open a new terminal, run
+```
+npx hardhat deploy --network localhost
+npx hardhat test
+
+```
+
+Be sure to configure the .env file correctly.
+
+```
