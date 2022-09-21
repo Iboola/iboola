@@ -42,6 +42,7 @@ Link to App Demo:
 
 
 Link to download iBoola App: https://expo.dev/artifacts/eas/kUeve7FyaFbHsGqbvUMVBb.aab
+(App is curently in its first stage of development)
 
 
 
