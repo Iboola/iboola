@@ -27,7 +27,7 @@ We intend to start with farms and markets where we have huge amounts of waste wh
 Once we successfully manage the growth in a few locations, we will upscale and add possible models that will suit offices and home use.
 
 
-iBoola Pitch Deck: https://we.tl/t-fUEexxti5D
+iBoola Pitch: https://we.tl/t-fUEexxti5D
 
 Tech Stack:
 
